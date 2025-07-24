@@ -1,0 +1,5 @@
+RPi.GPIO
+opencv-python
+numpy
+Pillow
+adafruit-circuitpython-ssd1306
