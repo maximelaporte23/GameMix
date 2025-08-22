@@ -43,4 +43,4 @@ Tous les moteurs, capteurs et boutons sont câblés à des GPIO spécifiques. Vo
 
 ## Auteurs
 
-Projet développé par Maxime dans le cadre du projet GameMix.
+Projet développé par Laporte Maxime, Beauvais Florian, Dellau Landry et Gonzalez Celia dans le cadre du projet GameMix.
